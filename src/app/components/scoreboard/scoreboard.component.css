@@ -1,0 +1,19 @@
+.card-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5%;
+}
+.button-area{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.VS-Image{
+    height: 35vmin;
+    pointer-events: none;
+    position: relative;
+    left: 50;
+    right: 50;
+}
